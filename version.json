@@ -1,4 +1,4 @@
 {
-  "version": 1.0,
-  "firmware_url": "DE_RAW_URL_VAN_V1.0_BIN_HIER"
+  "version": 1.1,
+  "firmware_url": "https://raw.githubusercontent.com/TiemenAfman/DesktopDisplay-firmware/main/firmware/firmware_v1.1.bin"
 }
